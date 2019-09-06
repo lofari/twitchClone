@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lofari.github.io/twitchClone/",
   "dependencies": {
     "flv.js": "^1.5.0",
     "gh-pages": "^2.1.1",
@@ -14,8 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "homepage": "https://lofari.github.io/twitchClone/"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
